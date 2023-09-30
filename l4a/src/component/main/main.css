@@ -1,0 +1,12 @@
+#mainSection {
+height: 100%;
+width: 100%;
+margin-top: 10%;
+}
+
+.mainContent {
+    width: 70%;
+    height: 400px;
+    border: 2px solid black;
+    margin: auto ;
+}

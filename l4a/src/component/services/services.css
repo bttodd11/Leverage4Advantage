@@ -1,0 +1,16 @@
+#servicesSection {
+width: 90%;
+margin: auto;
+}
+
+.servicesSectionHeader {
+    margin-bottom: 5%;
+}
+.serviceHeader {
+    text-align: left;
+    font-size: 24px;
+}
+
+.serviceText {
+    text-align: left;
+}

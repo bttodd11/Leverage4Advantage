@@ -1,0 +1,12 @@
+#contentSection {
+    width: 90%;
+    margin: auto;
+}
+.logo {
+    height: 300px;
+    box-shadow: rgb(235, 114, 154) 0px 8px 24px;
+
+}
+.contentText {
+    text-align: center;
+}

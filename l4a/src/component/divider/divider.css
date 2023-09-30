@@ -1,0 +1,18 @@
+#dividerSection {
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+hr.gradient {
+    height: 3px;
+    border: none;
+    border-radius: 6px;
+    width: 80%;
+    margin: auto;
+    background: linear-gradient(
+      90deg,
+      rgb(235, 114, 154) 0%,     
+      rgb(235, 114, 154) 11%,
+      rgb(192, 192, 192) 31%,
+      rgb(192, 192, 192) 100%
+    );
+  }
