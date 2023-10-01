@@ -5,8 +5,32 @@ margin-top: 10%;
 }
 
 .mainContent {
-    width: 70%;
+    width: 60%;
     height: 400px;
     border: 2px solid black;
-    margin: auto ;
+    margin: auto;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+.levTitle {
+    font-size: 68px;
+    text-align: left;
+}
+
+.levNoun {
+    margin-left: 10%;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.mainContentText {
+    margin-top: 10%;
+}
+
+.mainContentSubText{
+    font-size: 20px;
+}
+.mainContentP {
 }

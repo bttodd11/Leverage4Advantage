@@ -1,5 +1,7 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 import "./statement.css";
 
 let statement = () => {
@@ -38,7 +40,7 @@ let statement = () => {
             <div className="statementBox">
               <h5>Our Reach</h5>
               <p className="statementText">
-                Our presence is growing internationally, with a global network,
+                Our global presence is growing internationally, with a global network,
                 Leverage 4 Advantage is positioned to serve clients worldwide.
                 Whether you are a startup seeking rapid growth or a
                 multinational corporation navigating complex global challenges,
@@ -51,7 +53,7 @@ let statement = () => {
           <Col>
             <div className="statementBox">
               <h5>Join Us in Shaping the Future</h5>
-              <p className="statementText">
+              <p className="statementTextFuture">
                 We invite you to explore how Leverage 4 Advantage can drive your
                 organization toward new levels of success. Discover our case
                 studies, read our thought leadership articles, and get in touch

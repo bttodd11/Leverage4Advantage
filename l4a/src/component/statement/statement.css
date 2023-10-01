@@ -1,4 +1,13 @@
 #statementSection {
     width: 90%;
-    
+    margin: auto;
+}
+
+.statementTextFuture {
+    width: 50%;
+    margin: auto;
+}
+
+.statementText {
+    text-align: center;
 }
