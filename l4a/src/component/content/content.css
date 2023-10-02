@@ -1,6 +1,39 @@
 #contentSection {
     width: 90%;
     margin: auto;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+#contentSection h3 {
+    font-size: 30px;
+    text-align: center;
+    color: #EB729A;
+    font-family: 'Crimson Text', serif;
+    text-shadow: 1px 1px 2px black;
+    -webkit-filter: drop-shadow(12px 12px 7px rgb(235, 114, 154));
+    filter: drop-shadow(12px 12px 7px rgb(235, 114, 154));
+    letter-spacing: 9px;
+    margin-bottom: 10%;
+}
+.logo {
+    height: 200px;
+    width: 100%;
+    box-shadow: rgb(235, 114, 154) 0px 8px 24px;
+
+}
+.contentText {
+    text-align: center;
+    margin-bottom: 20%;
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+    color: #C0C0C0;
+}
+
+@media (min-width: 992px) {
+
+#contentSection {
+    width: 90%;
+    margin: auto;
 }
 .logo {
     height: 300px;
@@ -9,4 +42,5 @@
 }
 .contentText {
     text-align: center;
+}
 }

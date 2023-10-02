@@ -10,7 +10,7 @@ let content = () => {
     <div id="contentSection">
       <Container>
         <Row>
-          <Col>
+          <Col xs={12} sm={12} md={6} lg={6}>
             <div>
               <h3>Who we are</h3>
               <p className="contentText">
@@ -23,7 +23,7 @@ let content = () => {
               </p>
             </div>
           </Col>
-          <Col>
+          <Col xs={12} sm={12} md={6} lg={6}>
             <div>
               <img src={logo} className="logo" />
             </div>
