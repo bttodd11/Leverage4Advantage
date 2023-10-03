@@ -17,8 +17,8 @@
     "web-vitals": "^2.1.4",
     "gh-pages": "^5.0.0"
   },
+  "homepage": "http://bttodd11.github.io/Leverage4Advantage/",
   "scripts": {
-    "homepage": "http://bttodd11.github.io/Leverage4Advantage/",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
