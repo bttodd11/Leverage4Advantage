@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ebb78e3.css",
-    "main.js": "/static/js/main.d040967a.js",
-    "static/media/logo.jpg": "/static/media/logo.05bed0643dfcb28f7204.jpg",
-    "index.html": "/index.html",
-    "main.4ebb78e3.css.map": "/static/css/main.4ebb78e3.css.map",
-    "main.d040967a.js.map": "/static/js/main.d040967a.js.map"
+    "main.css": "/Leverage4Advantage/static/css/main.4ebb78e3.css",
+    "main.js": "/Leverage4Advantage/static/js/main.33f24cc9.js",
+    "static/media/logo.jpg": "/Leverage4Advantage/static/media/logo.05bed0643dfcb28f7204.jpg",
+    "index.html": "/Leverage4Advantage/index.html",
+    "main.4ebb78e3.css.map": "/Leverage4Advantage/static/css/main.4ebb78e3.css.map",
+    "main.33f24cc9.js.map": "/Leverage4Advantage/static/js/main.33f24cc9.js.map"
   },
   "entrypoints": [
     "static/css/main.4ebb78e3.css",
-    "static/js/main.d040967a.js"
+    "static/js/main.33f24cc9.js"
   ]
 }
